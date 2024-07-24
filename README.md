@@ -8,6 +8,8 @@ specific soil metrics based on budget constraints. To address this challenge, a 
 learning approach is required to develop very good models capable of accurately predicting
 the optimal crop based on soil characteristics.
 
+This project is submitted to the University of Essex as part of MA336 (**Artificial intelligence and machine learning with applications**) Coursework
+
 **Problem Statement**
 This project aims to build and compare multiple classification algorithms to predict
 crop types using soil metrics and providing farmers with efficient decision-making tools for
